@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "748449764214",
+    "firebase_url": "https://expiry-remainder.firebaseio.com",
+    "project_id": "expiry-remainder",
+    "storage_bucket": "expiry-remainder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748449764214:android:ec2aeef1aeae9431f66057",
+        "android_client_info": {
+          "package_name": "com.vktech.expiry_remainder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748449764214-tnc893ndgipg5s3vthnj8e8p5ht050n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vktech.expiry_remainder",
+            "certificate_hash": "74e509b057a8c96b8be71b138c6b313267f64841"
+          }
+        },
+        {
+          "client_id": "748449764214-i4bfn010efloiqnh5bgsgp028l05n02u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi_pkzVwjwvL4f6J0kP_1jjtVfQV1mqI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748449764214-i4bfn010efloiqnh5bgsgp028l05n02u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
